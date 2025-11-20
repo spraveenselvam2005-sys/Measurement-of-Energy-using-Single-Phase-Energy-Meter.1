@@ -1,3 +1,5 @@
+NAME: Praveen S
+REG NO : 212223210019
 # Aim:
 To measure energy using Single Phase Energy Meter
 

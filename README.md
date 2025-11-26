@@ -1,5 +1,9 @@
+# Construct and verify the Measurement of Energy using Single phase Energy Meter
+
 NAME: Praveen S
+
 REG NO : 212223210019
+
 # Aim:
 To measure energy using Single Phase Energy Meter
 
